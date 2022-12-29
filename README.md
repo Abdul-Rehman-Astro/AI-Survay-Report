@@ -28,7 +28,7 @@ aspects of society. Finally, we discuss the opportunities and challenges that AI
 presents.</p>
 
 
-## METHODOLOGY 
+# METHODOLOGY 
 For preparation of the report, an initial blueprint was created. The next step was 
 to develop a set of survey questions that will help achieve the research goals and 
 objectives. The questions were carefully crafted to be clear, concise, and unbiased 
