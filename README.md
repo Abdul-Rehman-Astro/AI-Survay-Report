@@ -1,14 +1,5 @@
 # AI-Survay-Report
 
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-</style>
-</head>
-<body>
-
 <h1> INTRODUCTION  </h1>
 <p>In recent years, the field of artificial intelligence (AI) has experienced incredible 
 growth and progress. Advances in machine learning, natural language processing, 
