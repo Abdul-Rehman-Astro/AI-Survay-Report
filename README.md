@@ -27,6 +27,22 @@ including the participants' perceptions of AI and its potential impact on differ
 aspects of society. Finally, we discuss the opportunities and challenges that AI 
 presents.</p>
 
+
+## METHODOLOGY 
+For preparation of the report, an initial blueprint was created. The next step was 
+to develop a set of survey questions that will help achieve the research goals and 
+objectives. The questions were carefully crafted to be clear, concise, and unbiased 
+in order to evaluate human perception of AI. They were also relevant to the 
+research goals and objectives. 
+The survey was distributed using a variety of methods, including email, social 
+media to a wide variety of population. The survey included clear instructions on 
+how to complete it and a deadline for completing it. Once the survey was 
+distributed, the next step was to collect and analyse the data. This was done using 
+a variety of statistical techniques. 
+Finally, the report was created in the standard format, including the front matter, 
+main body, back matter along with the presentation of the results in a clear and 
+concise manner, an analysis of the data to reflect the views of population on 
+survey question effectively, and relevant conclusions
 </body>
 </html>
 
